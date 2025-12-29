@@ -1,0 +1,30 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.out
+*.exe
+*.app
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Compiled binaries
+test_spectral_weaver
+demo_spectral_weaver
