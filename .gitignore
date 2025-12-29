@@ -28,3 +28,6 @@ temp/
 # Compiled binaries
 test_spectral_weaver
 demo_spectral_weaver
+
+# CodeQL artifacts
+_codeql_detected_source_root
